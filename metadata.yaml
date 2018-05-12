@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '9269'
     url: http://www.gutenberg.org/2009/agents/9269
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26334#The-Map-of-LifeConduct-and-Character
 gutenberg_issued: '2008-08-16'
 gutenberg_type: Text
 identifiers:
